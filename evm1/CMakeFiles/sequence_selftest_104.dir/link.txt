@@ -1,0 +1,1 @@
+/usr/bin/cc  -W -Wall -Wfloat-equal -Wpointer-arith -Wwrite-strings -Wcast-align -Wformat-security -Wmissing-format-attribute -Wformat=1 -Wno-long-long -Wcast-align -Winline -Werror -pedantic CMakeFiles/sequence_selftest_104.dir/src/main.c.o CMakeFiles/sequence_selftest_104.dir/src/task104.c.o -o bin/sequence_selftest_104  -lm -lgcov 

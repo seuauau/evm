@@ -1,0 +1,4 @@
+/home/seuauau/ara/CMakeFiles/sequence_testing_104.dir
+/home/seuauau/ara/CMakeFiles/sequence_selftest_104.dir
+/home/seuauau/ara/CMakeFiles/edit_cache.dir
+/home/seuauau/ara/CMakeFiles/rebuild_cache.dir
